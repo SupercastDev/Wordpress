@@ -6,9 +6,9 @@ For instructions on how to integrate with Wordpress or install our plugin, pleas
 
 ## Changelog
 
-### 1.3.12
+### 1.3.12 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.3.12.zip))
 - Added support for product variations in WooCommerce Subscriptions
 
-### 1.3.11
+### 1.3.11 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.3.11.zip))
 - Fixed an issue where WooCommerce feeds were provisioned with a billing e-mail address
   instead of the Wordpress user e-mail.
