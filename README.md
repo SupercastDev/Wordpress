@@ -6,6 +6,9 @@ For instructions on how to integrate with Wordpress or install our plugin, pleas
 
 ## Changelog
 
+### 1.4.0 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.4.0.zip))
+- Added Google Podcasts as a supported provider.
+
 ### 1.3.12 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.3.12.zip))
 - Added support for product variations in WooCommerce Subscriptions
 
