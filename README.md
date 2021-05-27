@@ -6,6 +6,8 @@ For instructions on how to integrate with Wordpress or install our plugin, pleas
 
 ## Changelog
 
+### 1.4.2 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.4.2.zip))
+- Fixed an issue with 'Powered by Supercast' logo
 ### 1.4.1 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.4.1.zip))
 - Fixed an issue with MemberPress where updates to a user e-mail could sometimes result in the e-mail change not being applied on Supercast.
 
