@@ -6,6 +6,9 @@ For instructions on how to integrate with Wordpress or install our plugin, pleas
 
 ## Changelog
 
+### 1.5.0 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.5.0.zip))
+- Question sections can now be configured
+
 ### 1.4.2 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.4.2.zip))
 - Fixed an issue with 'Powered by Supercast' logo
 ### 1.4.1 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.4.1.zip))
