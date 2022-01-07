@@ -5,6 +5,8 @@ This repository hosts all supported versions of the Supercast Wordpress plugin.
 For instructions on how to integrate with Wordpress or install our plugin, please visit our [support site](https://support.supercast.com/article/47-integrations)
 
 ## Changelog
+### 1.6.0 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.6.0.zip))
+- Add Spotify integration
 
 ### 1.5.0 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.5.0.zip))
 - Question sections can now be configured
