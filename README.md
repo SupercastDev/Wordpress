@@ -5,6 +5,9 @@ This repository hosts all supported versions of the Supercast Wordpress plugin.
 For instructions on how to integrate with Wordpress or install our plugin, please visit our [support site](https://support.supercast.com/article/47-integrations)
 
 ## Changelog
+### 1.7.1 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.7.1.zip))
+- Fixed an issue where on-hold WooCommerce subscriptions were not being deactivated on Supercast.
+
 ### 1.7.0 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.7.0.zip))
 - Adds a new version of player links driven by Supercast embeds. Use newfeeds=true in [supercast-feed] shortcodes to enable this.
 
