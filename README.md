@@ -5,6 +5,10 @@ This repository hosts all supported versions of the Supercast Wordpress plugin.
 For instructions on how to integrate with Wordpress or install our plugin, please visit our [support site](https://support.supercast.com/article/47-integrations)
 
 ## Changelog
+
+### 1.7.3 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.7.3.zip))
+- Fixed an issue connecting to Podkicker.
+
 ### 1.7.2 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.7.2.zip))
 - Fixed an issue playing episodes with a mpga extensions.
 
