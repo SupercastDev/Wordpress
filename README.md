@@ -6,6 +6,9 @@ For instructions on how to integrate with Wordpress or install our plugin, pleas
 
 ## Changelog
 
+### 1.7.4 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.7.4.zip))
+- Fixed an issue with feed links.
+
 ### 1.7.3 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.7.3.zip))
 - Fixed an issue connecting to Podkicker.
 
