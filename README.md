@@ -6,7 +6,7 @@ For instructions on how to integrate with Wordpress or install our plugin, pleas
 
 ## Changelog
 
-### 1.8.0 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.7.4.zip))
+### 1.8.0 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.8.0.zip))
 - Fixed an issue with Wordpress versions > 8.0
 - The default display of feeds is back to the legacy display.
 - Added support for YouTube Music
