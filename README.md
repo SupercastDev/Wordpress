@@ -6,6 +6,12 @@ For instructions on how to integrate with Wordpress or install our plugin, pleas
 
 ## Changelog
 
+### 1.8.1 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.8.1.zip))
+- Account for recently canceled gifts and drift
+- Account for gift transactions in plugin
+- Get links from API rather than the hardcoded version
+- Fix JS feeds
+
 ### 1.8.0 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.8.0.zip))
 - Fixed an issue with Wordpress versions > 8.0
 - The default display of feeds is back to the legacy display.
