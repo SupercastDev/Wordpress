@@ -6,6 +6,9 @@ For instructions on how to integrate with Wordpress or install our plugin, pleas
 
 ## Changelog
 
+### 1.8.2 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.8.2.zip))
+- Fix feed connection player icons broken by API key format mismatch
+
 ### 1.8.1 ([Download](https://github.com/SupercastDev/Wordpress/raw/master/releases/supercast-1.8.1.zip))
 - Account for recently canceled gifts and drift
 - Account for gift transactions in plugin
